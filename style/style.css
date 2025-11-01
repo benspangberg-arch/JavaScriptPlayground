@@ -34,6 +34,9 @@ body{
   justify-content: center;
 }
 
+.moved {
+    transform: translateX(350px); /* Moves 350px to the right (400px container width - 50px thing width) */
+}
 
 .target{
   border: blue 2px;
